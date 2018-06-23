@@ -1,7 +1,7 @@
 # SdarotIL
 Watch any series you want with hebrew translation and less ads! * NoTimeScript*
 
-simple steps
+<h3>simple steps</h3>
 1) Open Main.py from terminal.
 2) Write the series name.
 3) Write the season/chapter number.
