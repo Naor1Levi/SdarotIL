@@ -1,6 +1,5 @@
 import sys
 import SearchSeries
-sys.path.append('/usr/lib/python3/dist-packages')
 
 SidraName = input("Series Name: ")
 SidraSeason = input ("Season: ")
