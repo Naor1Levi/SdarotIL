@@ -14,7 +14,7 @@ class SearchSeries:
         self.SidraEpisode = SidraEpisode
         self.WatchList = []
         self.DownList = []
-        self.headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+        self.headers = {'User-Agent': 'Mozilla/5.0'}
 
     def generate_sections_of_url(self,url):
         path = urlparse(url).path
