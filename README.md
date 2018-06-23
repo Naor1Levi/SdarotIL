@@ -6,7 +6,6 @@ simple steps
 2) Write the series name.
 3) Write the season/chapter number.
 
-<br><br/>
 ![alt tag](https://i.imgrpost.com/imgr/2018/06/23/Screenshot.png)
 
 <h3>Requirements</h3>
