@@ -1,5 +1,5 @@
 # SdarotIL
-Watch/Download any series you want with hebrew translation and less ads! * NoTimeScript*
+Watch/download any series you want with hebrew translation and less ads! * NoTimeScript*
 
 <strong>simple steps</strong>
 1) Open Main.py from terminal.
