@@ -6,6 +6,9 @@ Watch/download any series you want with hebrew translation and less ads! * NoTim
 2) Write the series name.
 3) Write the season/chapter number.
 
++ You can write the series name in hebrew and english
++ This script able to find series with partial seriel name
+
 ![alt tag](https://i.imgrpost.com/imgr/2018/06/23/Screenshot.png)
 
 <h3>Requirements</h3>
