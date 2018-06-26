@@ -19,5 +19,6 @@ Watch/download any series you want with hebrew translation and less ads! * NoTim
   <li> BS4 (via pip) </li>
   <li> Windows or Linux </li>
 </ul>
-***********************
+*******************************************************
+
 This script if for education only!!, (do not) use it ;)
