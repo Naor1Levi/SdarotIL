@@ -1,7 +1,7 @@
 import sys
 import SearchSeries
 
-SidraName = input("Series Name: ")
+SidraName  = input("Series Name: ")
 SidraSeason = input ("Season: ")
 SidraEpisode = input ("Episode: ")
 
